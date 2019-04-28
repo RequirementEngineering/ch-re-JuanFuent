@@ -58,11 +58,15 @@ Product functions
 
 User Characteristics
 -
-| Actorr's     | Description                                                                                       |
+| Actor's     | Description                                                                                       |
 | ----- | ---- |
 | Customer     | Can access the system through wifi connection and order food.                                     |
 | Employees    | Chef.- Can the see the order and after preparing the food he will tell the system that the food is ready.                                Delivery Man.- He is in charge of taking the food to the client.                                  |
 | Admin        | Can edit the price, count total earning and expenditure.                                          |
 
-
+Constraints
+-
+The Customer always need have connection to internet.
+Have a credit / debit card.
+Customer address must be correct
 
