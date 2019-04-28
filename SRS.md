@@ -1,5 +1,7 @@
 SRS FOR A Restaurant Management System
 =
+Introduction
+-
 PURPOSE
 -
 The purpose of this SRS document is to coer the overall description of the Restaurant Managemet System, specifically the product perspectvie, function, characteristics, some contrains. It will also describe how the system will pergom and under which it must operate.
