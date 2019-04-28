@@ -68,7 +68,7 @@ User Characteristics
 
 Constraints
 -
-The Customer always need have connection to internet.
-Have a credit / debit card.
-Customer address must be correct
+- The Customer always need have connection to internet.
+- Have a credit / debit card.
+- Customer address must be correct
 
