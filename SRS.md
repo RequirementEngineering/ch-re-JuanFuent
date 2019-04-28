@@ -1,10 +1,10 @@
 SRS FOR A Restaurant Management System
 =
-1.1 PURPOSE
+PURPOSE
 -
 The purpose of this SRS document is to coer the overall description of the Restaurant Managemet System, specifically the product perspectvie, function, characteristics, some contrains. It will also describe how the system will pergom and under which it must operate.
 
-1.2 SCOPE
+SCOPE
 -
 Generally the menus of a restaurant are based on paper and therefore impose restrictions on the prices available and a responsibility to update them. The first step in this SRS document is specify is replacement of paper based menus using an electronic format, the second relates to an electronic strategy for the office handling or cashiering of a customers orders. this management system, we will provide an app that can be used by the customers to order food. All
 
@@ -22,7 +22,7 @@ Generally the menus of a restaurant are based on paper and therefore impose rest
 
 All the information about daily expenses and profit will be saved in the system, also the required information about employees will be saved in the system which can be only accessed by the system admin.
 
-1.3 Definition, Aronyms and Abbreviations
+Definition, Aronyms and Abbreviations
 -
 | Term         | Description                                                                                       |
 | ----- | ---- |
@@ -38,4 +38,31 @@ All the information about daily expenses and profit will be saved in the system,
 | Payment | Comprises the total cost of zero or more meals and zero or more tips|
 | Bankcard | Customer debit/credit card |
 | Menu | Surface computer representation of the available items and other options|
+
+Overview
+-
+Product Perspective
+-
+Is the help the restaurant are more effectively and efficiently by computerizing meal ordering, billing and inventory control. The another point is generate data, after analyze the data for help the manager to make appropiate business decisions for the restaurant, for example, knowing the number of customers for a particular time interval, the manager can decide wheter more cheff are required.
+
+Product functions
+-
+- Login/Logout
+- Food Order via App
+- Take Order
+- Accept Order
+- Server Food
+- Payment
+- Customer Information
+- Delivery Man Information
+
+User Characteristics
+-
+| Actorr's     | Description                                                                                       |
+| ----- | ---- |
+| Customer     | Can access the system through wifi connection and order food.                                     |
+| Employees    | Chef.- Can the see the order and after preparing the food he will tell the system that the food is ready.                                Delivery Man.- He is in charge of taking the food to the client.                                  |
+| Admin        | Can edit the price, count total earning and expenditure.                                          |
+
+
 
