@@ -66,6 +66,10 @@ User Characteristics
 | Employees    | Chef.- Can the see the order and after preparing the food he will tell the system that the food is ready.                                Delivery Man.- He is in charge of taking the food to the client.                                  |
 | Admin        | Can edit the price, count total earning and expenditure.                                          |
 
+ ![alt text](https://github.com/RequirementEngineering/ch-re-JuanFuent/blob/master/Captura.PNG)
+
+
+
 Constraints
 -
 - The Customer always need have connection to internet.
