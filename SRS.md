@@ -1,4 +1,4 @@
-SRS FOR A Restaurant Management System
+APP FOR A Restaurant Management System (SRS)
 =
 Introduction
 -
