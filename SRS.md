@@ -50,13 +50,17 @@ Is the help the restaurant are more effectively and efficiently by computerizing
 Product functions
 -
 - Login/Logout
-- Food Order via App
-- Take Order
-- Accept Order
-- Server Food
-- Payment
-- Customer Information
+- Customer check menu and select the dishes he/she wants
+- Place Order
+- Cancel/edit order
+- Chef Accept Order
+- Chef mark orders complete
+- Customer Select payment method
+- The admin can make operation on staff Members, menu itemss and inventory.
+- Customer can edit their Information
 - Delivery Man Information
+- Customer provide feedback
+
 
 User Characteristics
 -
@@ -66,13 +70,56 @@ User Characteristics
 | Employees    | Chef.- Can the see the order and after preparing the food he will tell the system that the food is ready.                                Delivery Man.- He is in charge of taking the food to the client.                                  |
 | Admin        | Can edit the price, count total earning and expenditure.                                          |
 
- ![alt text](https://github.com/RequirementEngineering/ch-re-JuanFuent/blob/master/Captura.PNG)
-
-
-
 Constraints
 -
 - The Customer always need have connection to internet.
 - Have a credit / debit card.
 - Customer address must be correct
+
+Assumptions and dependencies
+-
+One assumption about the software is that it will always be used on tablets or smarphones that have enough resources to run application. if the tablet does not have enough hardware resources available for the application, there may be scenarios where the application does not work as intended or not even at all
+
+User Interface
+-
+Customer interface
+- The customer interface will contain some screen. All the screen will have a consistent layout.
+
+Login/Logout
+- Here the user enters the data of his account to be able to enter the application
+
+Check Menu
+- In this screen, system shows a list of cards of dishes. Each dish will have an imagen, its price per serving
+
+Edit/Cancel Order
+- Aftre confitming the order, in this screen customer will be show "Edit order" and "Cancel Order" buttons.
+
+FeedBack
+-In this session the user can leave a comment, about the quality of the dish that he acquired
+
+Hardware Interface
+-
+There must be a logical address of the system in IPv6 format. As well as an active database, in which all the dishes that are in the menu of the restaurant will be stored. Moreover, the central screen in kitchen which be displaying the status of order queues.
+
+Software Interface
+-
+- For Databe services system shall use to MySQL
+- System will run on android version above or equal to Mashmallow 6.0
+- System use there must be a logical address of the system in IPv6 format
+
+Communications Interface
+-
+Communication function required the internet protocol version 6 and it will follow HTTPS. It will use FTP for whole system with local server. And email communication to device of the system
+
+
+
+
+
+
+
+![alt text]()
+
+
+
+
 
