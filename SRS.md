@@ -111,13 +111,22 @@ Communications Interface
 -
 Communication function required the internet protocol version 6 and it will follow HTTPS. It will use FTP for whole system with local server. And email communication to device of the system
 
-
-
-
-
-
-
+Functional Requirements
+-
+- General use case
 ![alt text](https://raw.githubusercontent.com/RequirementEngineering/ch-re-JuanFuent/master/SRS.PNG)
+
+
+- Use Case 1: Registrer and add informacion.
+
+ Activity       | Description                                                                                                          |
+| ----- | ----  |
+| Primari Actor | User                                                                                                                 |
+| Pre Condition | Internet Connection available and download the app                                                                   |
+|               | 1.-The user enters their username and password, with which they registered.                                           
+| Main Scenario | 2.-The system verifies the information it enters and is in charge of reapplying that it is correct.                 
+|               | 3.-The user enters the data of his address, so that the delivery person knows where to take the future orders that |                   |   are made in that account.                                                                                             
+|               |  4.-The information is saved in the system.                                                                          |
 
 
 
