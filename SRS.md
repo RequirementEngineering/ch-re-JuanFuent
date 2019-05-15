@@ -142,7 +142,28 @@ Functional Requirements
 
 ![alt text](https://github.com/RequirementEngineering/ch-re-JuanFuent/blob/master/UC2.PNG)
 
+- Use Case 3: Prepare the dish
+
+ Activity       | Description                                                                                                          |
+| ----- | ----  |
+| Primari Actor | Chef                                                                                                                 |
+| Pre Condition | Having received an order                                                                   |
+|               | 1.-Review the order 
+| Main Scenario | 2.-Check if there are enough ingredients                
+|               | 3.-Confirm that the order is complete                                                                                                    |
+
+![alt text](https://github.com/RequirementEngineering/ch-re-JuanFuent/blob/master/UC3.PNG)
 
 
+- Use Case 4: Bring the food to the destination
 
+ Activity       | Description                                                                                          |
+| ----- | ----  |
+| Primari Actor | Delivery man                                                                                         |
+| Pre Condition | Confirm that the order is complete                                                                   |
+|               | 1.-Take the order                                                                                    |
+| Main Scenario | 2.-Review the customer's location                                                                    |
+|               | 3.-Notify that you are on your way                                                                   |                                 | 
+
+![alt text](https://github.com/RequirementEngineering/ch-re-JuanFuent/blob/master/UC4.PNG)
 
