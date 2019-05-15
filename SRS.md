@@ -128,6 +128,20 @@ Functional Requirements
 |               | 3.-The user enters the data of his address, so that the delivery person knows where to take the future orders that |                   |   are made in that account.                                                                                             
 |               |  4.-The information is saved in the system.                                                                          |
 
+![alt text](https://github.com/RequirementEngineering/ch-re-JuanFuent/blob/master/UC1.PNG)
+
+- Use Case 2: Check Menu and Place Order
+
+ Activity       | Description                                                                                                          |
+| ----- | ----  |
+| Primari Actor | User                                                                                                                 |
+| Pre Condition | Internet Connection available                                                                   |
+|               | 1.-See the menu and select your meal. 
+| Main Scenario | 2.-Select the payment method.                 
+|               | 3.-Confirm Order                                                                                                    |
+
+![alt text](https://github.com/RequirementEngineering/ch-re-JuanFuent/blob/master/UC2.PNG)
+
 
 
 
