@@ -167,3 +167,17 @@ Functional Requirements
 
 ![alt text](https://github.com/RequirementEngineering/ch-re-JuanFuent/blob/master/UC4.PNG)
 
+- Use Case 5: Registrer and add informacion.
+
+ Activity       | Description                                                                                                          |
+| ----- | ----  |
+| Primari Actor | Admin                                                                                                                |
+| Pre Condition | None                                                                    |
+|               | 1.-The admin has full access to the system                                          
+| Main Scenario | 2.-Edit the price of dishes or make a discount                 
+|               | 3.-Delete dishes or add new dishes |                   |                                                                                               
+|               |  4.-Check the profits that were during the day.                                                                          |
+
+![alt text](https://github.com/RequirementEngineering/ch-re-JuanFuent/blob/master/UC5.PNG)
+
+
