@@ -192,3 +192,28 @@ The software is completely environmentally friendly and does not cause any safet
 ### Security Requirements
 The software is completely environmentally friendly and does not cause any safety violations. The menu will have a flexible font that can be zoomed so as to not over constrain the eyes.
 
+Elicitation Process
+-
+The next elicitation process was carried out at a small local business called "MamaBurge's" which sells hamburgers, cakes, tacos and other snacks. Because the business is small, it was not possible to obtain much information, because in it only two people called Noé and Rogelio work, who are brothers. The information that was obtained was the following:
+
+Juan(interviewer) .- Good afternoon, would you allow me to ask you some questions about the activities about your work and how do you do them?
+
+Noé.-If it's okay.
+
+Juan.-After the client makes an order by phone, what are the following processes to perform?
+
+Noé.-First of all it is checked if there are other orders before the one that has just been made, in case the customer is notified more or less how long it could take to leave your order, also during the call is also verified that you really have the ingredients that are needed to prepare the order so that afterwards he makes the decision of whether to make a change or cancel the order.
+
+Juan.-And how do they do it when they end up with an ingredient?
+
+Noé.-It depends on each situation, for example there are times that we realize that is what is selling more during the day, then I can send my brother to buy things that could be finished, here in Soria. The other thing is that we can not get all the ingredients out of hand, so we decided to cancel any dish that has the missing ingredient, and we have to wait until working terms to get them and be prepared for the next day.
+
+Juan.-And the home delivery they have, how is it?
+
+Noé.-Ah, the truth is that we only deliver in places that are close to here, since sometimes they ask us to take the food to places a little far and then the other order may be near here, so it does not suit I'm very much going around a lot.
+
+Juan.- Ah, well, thank you very much for helping me.
+
+Noé.-You're welcome.
+
+Because the orders are made per call and maybe they forgot to mention me some things, or that I also do not ask for other processes. I decided to add some things for example instead of them going to buy their ingredients they were assigned a supplier, and also some parts about the process of preparing the food.
