@@ -180,4 +180,15 @@ Functional Requirements
 
 ![alt text](https://github.com/RequirementEngineering/ch-re-JuanFuent/blob/master/UC5.PNG)
 
+Nonfunctional Requirements
+-
+
+### Performance Requirements
+The system must be interactive, and the delays involved must be less. So, in every action response of the system, there are no immediate delays. In case of scrolling through the menu there should be a delay  beore the next page of menu items is displayed otherwise our people's dinning experience is affected. The order should be placed in pending orders and be visible to the head chef .
+
+### Safety Requirements
+The software is completely environmentally friendly and does not cause any safety violations. The menu will have a flexible font that can be zoomed so as to not over constrain the eyes.
+
+### Security Requirements
+The software is completely environmentally friendly and does not cause any safety violations. The menu will have a flexible font that can be zoomed so as to not over constrain the eyes.
 
