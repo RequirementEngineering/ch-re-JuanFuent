@@ -217,3 +217,17 @@ Juan.- Ah, well, thank you very much for helping me.
 Noé.-You're welcome.
 
 Because the orders are made per call and maybe they forgot to mention me some things, or that I also do not ask for other processes. I decided to add some things for example instead of them going to buy their ingredients they were assigned a supplier, and also some parts about the process of preparing the food.
+
+Bussines Process Diagram
+-
+https://github.com/RequirementEngineering/ch-re-JuanFuent/blob/master/BPM%20Main.jpg
+![alt text](https://github.com/RequirementEngineering/ch-re-JuanFuent/blob/master/BPM%20Main.jpg)
+
+- SubProcess 1: Chef and Inventory
+![alt text](https://github.com/RequirementEngineering/ch-re-JuanFuent/blob/master/SubProcess1Chef.PNG)
+
+- SubProcess2 : Delivery man
+![alt text](https://github.com/RequirementEngineering/ch-re-JuanFuent/blob/master/SubProcess2Delivery.PNG)
+
+
+
