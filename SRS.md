@@ -1,5 +1,7 @@
 APP FOR A Restaurant Management System (SRS)
 =
+![alt text](https://github.com/RequirementEngineering/ch-re-JuanFuent/blob/master/Portada.PNG)
+- 
 Introduction
 -
 PURPOSE
@@ -41,7 +43,7 @@ Definition, Aronyms and Abbreviations
 | Bankcard | Customer debit/credit card |
 | Menu | Surface computer representation of the available items and other options|
 
-Overview
+Overall Description
 -
 Product Perspective
 -
